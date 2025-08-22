@@ -123,7 +123,7 @@ PC USB Port → USB-to-Serial Adapter → HY5066 Module
 
 ## 🔄 Updates & Changelog
 
-### Version 1.0 (2025-08-22)
+### Version 1.0.2 (2025-08-22)
 - Initial release
 - Complete HY5066 command support
 - Multi-language interface (English/Chinese)
@@ -156,8 +156,8 @@ For bug reports or feature requests:
 
 - **Author**: Spencer Chen
 - **Email**: spencer.chen7@gmail.com
-- **Tool Version**: 1.0
-- **Release Date**: August 22, 2025
+- **Tool Version**: 1.0.2
+- **Release Date**: 2025-08-22
 
 ---
 
